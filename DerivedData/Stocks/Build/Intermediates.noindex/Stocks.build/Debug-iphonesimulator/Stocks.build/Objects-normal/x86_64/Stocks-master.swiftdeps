@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b1de9a06ea48d9e73eee8d9e78caf7e4"
+build_time: [1536871355, 999436000]
+inputs:
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/Utilities/Constants.swift": [1536865884, 0]
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/StocksModel.swift": [1536865309, 0]
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/StocksViewController.swift": [1536871355, 0]
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/AppDelegate.swift": [1536859771, 0]
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/Utilities/NetworkAccessChecker.swift": [1536862365, 0]
+  "/Users/Andrey/Developer/Stocks/Stocks/Stocks/Stock.swift": [1536778061, 0]

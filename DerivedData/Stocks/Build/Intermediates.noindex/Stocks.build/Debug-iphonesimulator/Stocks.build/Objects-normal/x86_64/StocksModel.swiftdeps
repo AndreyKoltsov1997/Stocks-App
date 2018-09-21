@@ -1,0 +1,311 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StocksDelegate"
+- "StocksModel"
+provides-nominal:
+- "6Stocks0A8DelegateP"
+- "6Stocks0A5ModelC"
+provides-member:
+- ["6Stocks0A8DelegateP", ""]
+- ["6Stocks0A5ModelC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+"
+- !private "=="
+- !private "??"
+- "AnyObject"
+- !private "CastingPrecedence"
+- !private "Constants"
+- !private "DispatchQueue"
+- !private "HTTPURLResponse"
+- !private "JSONSerialization"
+- !private "NetworkAcessChecker"
+- "Stock"
+- "StocksDelegate"
+- "StocksModel"
+- "String"
+- !private "StringLiteralType"
+- "URL"
+- !private "URLSession"
+- !private "print"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "dataTask"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "updateValue"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10CollectionP", "updateValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["6Stocks9ConstantsV", "DEFAULT_VALUE_IF_COMPANY_NOT_FOUND"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_LIST_OF_COMPANIES_REQUEST"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_RESPONSE_COMPANY_NAME_TAG"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_RESPONSE_COMPANY_SYMBOL_TAG"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_SERVER_BASE_URL"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_SERVER_BASE_URL_FOR_IMAGE"]
+- !private ["6Stocks9ConstantsV", "IEXTRADING_SERVER_DEFAULT_IMAGE_EXTENSION"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "updateValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "updateValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "updateValue"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "updateValue"]
+- !private ["s10DictionaryV", "init"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s10DictionaryV", "updateValue"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "updateValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "dataTask"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "jsonObject"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "mutableContainers"]
+- !private ["s9EquatableP", "resume"]
+- !private ["s9EquatableP", "shared"]
+- !private ["s9EquatableP", "statusCode"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "updateValue"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "mutableContainers"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "updateValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So15HTTPURLResponseC", "statusCode"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "dataTask"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "jsonObject"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "resume"]
+- !private ["s8HashableP", "shared"]
+- !private ["s8HashableP", "statusCode"]
+- !private ["So17JSONSerializationC", "jsonObject"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So9NSCopyingP", "resume"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "dataTask"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "dataTask"]
+- !private ["So16NSObjectProtocolP", "jsonObject"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "resume"]
+- !private ["So16NSObjectProtocolP", "shared"]
+- !private ["So16NSObjectProtocolP", "statusCode"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- !private ["6Stocks19NetworkAcessCheckerC", "isConnectedToNetwork"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["s9OptionSetP", "mutableContainers"]
+- !private ["So17ProgressReportingP", "resume"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "mutableContainers"]
+- !private ["So17JSONSerializationC14ReadingOptionsV", "mutableContainers"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s8SequenceP", "updateValue"]
+- !private ["s10SetAlgebraP", "mutableContainers"]
+- !private ["6Stocks5StockV", "companySymbol"]
+- !private ["6Stocks5StockV", "init"]
+- ["6Stocks0A8DelegateP", "Stock"]
+- ["6Stocks0A8DelegateP", "String"]
+- ["6Stocks0A8DelegateP", "addListOfCompanies"]
+- ["6Stocks0A8DelegateP", "displayStockInfo"]
+- ["6Stocks0A8DelegateP", "showNetworkErrorAlert"]
+- !private ["6Stocks0A5ModelC", "Constants"]
+- !private ["6Stocks0A5ModelC", "DispatchQueue"]
+- !private ["6Stocks0A5ModelC", "HTTPURLResponse"]
+- !private ["6Stocks0A5ModelC", "JSONSerialization"]
+- !private ["6Stocks0A5ModelC", "NetworkAcessChecker"]
+- ["6Stocks0A5ModelC", "Stock"]
+- ["6Stocks0A5ModelC", "StocksDelegate"]
+- ["6Stocks0A5ModelC", "String"]
+- ["6Stocks0A5ModelC", "URL"]
+- !private ["6Stocks0A5ModelC", "URLSession"]
+- !private ["6Stocks0A5ModelC", "checkNetworkConnection"]
+- ["6Stocks0A5ModelC", "deinit"]
+- ["6Stocks0A5ModelC", "delegate"]
+- !private ["6Stocks0A5ModelC", "getListOfCompanies"]
+- ["6Stocks0A5ModelC", "getLogoURL"]
+- ["6Stocks0A5ModelC", "init"]
+- !private ["6Stocks0A5ModelC", "print"]
+- ["6Stocks0A5ModelC", "requestQuote"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["So11URLResponseC", "statusCode"]
+- !private ["So10URLSessionC", "dataTask"]
+- !private ["So10URLSessionC", "shared"]
+- !private ["So18URLSessionDataTaskC", "resume"]
+- !private ["So14URLSessionTaskC", "resume"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "updateValue"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "6Stocks9ConstantsV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So15HTTPURLResponseC"
+- !private "s8HashableP"
+- !private "So17JSONSerializationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "6Stocks19NetworkAcessCheckerC"
+- !private "So9OS_objectC"
+- !private "s9OptionSetP"
+- !private "So17ProgressReportingP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "So17JSONSerializationC14ReadingOptionsV"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "6Stocks5StockV"
+- "6Stocks0A8DelegateP"
+- "6Stocks0A5ModelC"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "So11URLResponseC"
+- !private "So10URLSessionC"
+- !private "So18URLSessionDataTaskC"
+- !private "So14URLSessionTaskC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "94f329bf4cd5fc7996ff060ddf8e2472"
